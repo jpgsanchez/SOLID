@@ -1,0 +1,9 @@
+c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.Test\bin\Debug\startup.examples.Test.dll
+c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.Test\bin\Debug\startup.examples.Test.pdb
+c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.Test\obj\Debug\startup.examples.Test.csprojResolveAssemblyReference.cache
+c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.Test\obj\Debug\startup.examples.Test.dll
+c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.Test\obj\Debug\startup.examples.Test.pdb
+c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.Test\bin\Debug\startup.examples.principles.dll
+c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.Test\bin\Debug\startup.examples.transverseobjects.dll
+c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.Test\bin\Debug\startup.examples.principles.pdb
+c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.Test\bin\Debug\startup.examples.transverseobjects.pdb

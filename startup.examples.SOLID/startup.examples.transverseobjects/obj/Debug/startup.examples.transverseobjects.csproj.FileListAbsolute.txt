@@ -1,5 +1,0 @@
-c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.transverseobjects\bin\Debug\startup.examples.transverseobjects.dll
-c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.transverseobjects\bin\Debug\startup.examples.transverseobjects.pdb
-c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.transverseobjects\obj\Debug\startup.examples.transverseobjects.csprojResolveAssemblyReference.cache
-c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.transverseobjects\obj\Debug\startup.examples.transverseobjects.dll
-c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.transverseobjects\obj\Debug\startup.examples.transverseobjects.pdb

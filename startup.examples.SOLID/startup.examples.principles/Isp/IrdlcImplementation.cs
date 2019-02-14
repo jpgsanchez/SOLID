@@ -9,7 +9,7 @@ using Microsoft.Reporting.WinForms;
 
 using startup.examples.transverseobjects.common;
 
-namespace startup.examples.principles.Isp
+namespace startup.examples.principles.isp
 {
     public interface IrdlcImplementation
     {

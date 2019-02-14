@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace startup.examples.principles.Isp
+namespace startup.examples.principles.isp
 {
     public class pdfImplementation : IpdfImplementation, IReportProcess
     {

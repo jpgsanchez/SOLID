@@ -1,7 +1,7 @@
 # SOLID
 Explain Solid Principles
 
-Single Responsability Principle.
+Single Responsability Principle.<br/>
 Open / Close Principle.
 Liskov Substitution Principle.
 Interface Seggregation Principle.

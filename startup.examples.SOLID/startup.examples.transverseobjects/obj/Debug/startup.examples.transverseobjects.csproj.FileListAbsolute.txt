@@ -1,0 +1,4 @@
+C:\Users\JPGARC\Documents\Visual Studio 2013\Projects\startup.examples.SOLID\startup.examples.transverseobjects\bin\Debug\startup.examples.transverseobjects.dll
+C:\Users\JPGARC\Documents\Visual Studio 2013\Projects\startup.examples.SOLID\startup.examples.transverseobjects\bin\Debug\startup.examples.transverseobjects.pdb
+C:\Users\JPGARC\Documents\Visual Studio 2013\Projects\startup.examples.SOLID\startup.examples.transverseobjects\obj\Debug\startup.examples.transverseobjects.dll
+C:\Users\JPGARC\Documents\Visual Studio 2013\Projects\startup.examples.SOLID\startup.examples.transverseobjects\obj\Debug\startup.examples.transverseobjects.pdb

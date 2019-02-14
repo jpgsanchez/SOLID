@@ -1,0 +1,19 @@
+﻿using System;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Globalization;
+using System.Threading.Tasks;
+using System.Collections.Generic;
+using Microsoft.Reporting.WinForms;
+
+using startup.examples.transverseobjects.common;
+
+namespace startup.examples.principles.Isp
+{
+    public interface IrdlcImplementation
+    {
+        void CargarDataSourcePolizaLATAM(PolizaModelo Reporte, ref ReportViewer reportViewer);
+        List<ComplementosPolizaBR> OrdenPolizaBrasil(List<ComplementosPolizaBR> origen);
+    }
+}

@@ -1,0 +1,3 @@
+﻿Ejemplo.
+
+Archivo temporal de pruebas.

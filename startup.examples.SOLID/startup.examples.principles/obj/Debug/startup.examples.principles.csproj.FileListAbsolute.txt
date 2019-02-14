@@ -1,7 +1,7 @@
-c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.principles\bin\Debug\startup.examples.principles.dll
-c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.principles\bin\Debug\startup.examples.principles.pdb
-c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.principles\obj\Debug\startup.examples.principles.csprojResolveAssemblyReference.cache
-c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.principles\obj\Debug\startup.examples.principles.dll
-c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.principles\obj\Debug\startup.examples.principles.pdb
-c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.principles\bin\Debug\startup.examples.transverseobjects.dll
-c:\users\jpgarc\documents\visual studio 2013\Projects\startup.examples.SOLID\startup.examples.principles\bin\Debug\startup.examples.transverseobjects.pdb
+C:\Users\JPGARC\Documents\Visual Studio 2013\Projects\startup.examples.SOLID\startup.examples.principles\obj\Debug\startup.examples.principles.csprojResolveAssemblyReference.cache
+C:\Users\JPGARC\Documents\Visual Studio 2013\Projects\startup.examples.SOLID\startup.examples.principles\bin\Debug\startup.examples.principles.dll
+C:\Users\JPGARC\Documents\Visual Studio 2013\Projects\startup.examples.SOLID\startup.examples.principles\bin\Debug\startup.examples.principles.pdb
+C:\Users\JPGARC\Documents\Visual Studio 2013\Projects\startup.examples.SOLID\startup.examples.principles\bin\Debug\startup.examples.transverseobjects.dll
+C:\Users\JPGARC\Documents\Visual Studio 2013\Projects\startup.examples.SOLID\startup.examples.principles\bin\Debug\startup.examples.transverseobjects.pdb
+C:\Users\JPGARC\Documents\Visual Studio 2013\Projects\startup.examples.SOLID\startup.examples.principles\obj\Debug\startup.examples.principles.dll
+C:\Users\JPGARC\Documents\Visual Studio 2013\Projects\startup.examples.SOLID\startup.examples.principles\obj\Debug\startup.examples.principles.pdb
